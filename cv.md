@@ -11,7 +11,7 @@
 * Git
 * Webpack
 
-### Latest code example you can find at
+### Latest code example you can find at https://github.com/PavelAsadchy
 
 ### Experience:
 * EPAM Training Center : Front End (February - June 2020);
